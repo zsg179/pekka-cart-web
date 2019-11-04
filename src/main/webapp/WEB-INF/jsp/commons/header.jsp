@@ -43,79 +43,79 @@
 					<div class="item fore1">
 						<h3 class="cate">益智玩具</h3>
 						<p>
-						<a class="small" href="/search.html?q=早教机">早教机</a>
-						<a class="small" href="/search.html?q=点读笔">点读笔</a>
-						<a class="small" href="/search.html?q=早教教具">早教教具</a>
-						<a class="small" href="/search.html?q=床铃/摇铃">床铃/摇铃</a>
-						<a class="small" href="/search.html?q=挂图">挂图</a>
-						<a class="small" href="/search.html?q=儿童电子琴">儿童电子琴</a>
+						<a class="small" href="http://localhost:8085/search.html?q=早教机">早教机</a>
+						<a class="small" href="http://localhost:8085/search.html?q=点读笔">点读笔</a>
+						<a class="small" href="http://localhost:8085/search.html?q=早教教具">早教教具</a>
+						<a class="small" href="http://localhost:8085/search.html?q=床铃/摇铃">床铃/摇铃</a>
+						<a class="small" href="http://localhost:8085/search.html?q=挂图">挂图</a>
+						<a class="small" href="http://localhost:8085/search.html?q=儿童电子琴">儿童电子琴</a>
 						</p>
 					</div>
 					<div class="item fore2">
 						<h3 class="cate">遥控电动</h3>
 						<p>
-						<a class="small" href="/search.html?q=遥控车">遥控车</a>
-						<a class="small" href="/search.html?q=遥控飞机">遥控飞机</a>
-						<a class="small" href="/search.html?q=遥控船">遥控船</a>
-						<a class="small" href="/search.html?q=机器人">机器人</a>
-						<a class="small" href="/search.html?q=轨道/助力">轨道/助力</a>
+						<a class="small" href="http://localhost:8085/search.html?q=遥控车">遥控车</a>
+						<a class="small" href="http://localhost:8085/search.html?q=遥控飞机">遥控飞机</a>
+						<a class="small" href="http://localhost:8085/search.html?q=遥控船">遥控船</a>
+						<a class="small" href="http://localhost:8085/search.html?q=机器人">机器人</a>
+						<a class="small" href="http://localhost:8085/search.html?q=轨道/助力">轨道/助力</a>
 						</p>
 					</div>
 					<div class="item fore3">
 						<h3 class="cate">积木拼插</h3>
 						<p>
-						<a class="small" href="/search.html?q=乐高">乐高</a>
-						<a class="small" href="/search.html?q=积木">积木</a>
-						<a class="small" href="/search.html?q=磁力片">磁力片</a>
-						<a class="small" href="/search.html?q=拼图">拼图</a><br>
-						<a class="small" href="/search.html?q=木制积木">木制积木</a>
+						<a class="small" href="http://localhost:8085/search.html?q=乐高">乐高</a>
+						<a class="small" href="http://localhost:8085/search.html?q=积木">积木</a>
+						<a class="small" href="http://localhost:8085/search.html?q=磁力片">磁力片</a>
+						<a class="small" href="http://localhost:8085/search.html?q=拼图">拼图</a><br>
+						<a class="small" href="http://localhost:8085/search.html?q=木制积木">木制积木</a>
 						</p>
 					</div>
 					<div class="item fore4">
 						<h3 class="cate">动漫模型</h3>
 						<p>
-						<a class="small" href="/search.html?q=动漫玩具">动漫玩具</a>
-						<a class="small" href="/search.html?q=卡通周边">卡通周边</a><br>
-						<a class="small" href="/search.html?q=模型玩具">模型玩具</a>
+						<a class="small" href="http://localhost:8085/search.html?q=动漫玩具">动漫玩具</a>
+						<a class="small" href="http://localhost:8085/search.html?q=卡通周边">卡通周边</a><br>
+						<a class="small" href="http://localhost:8085/search.html?q=模型玩具">模型玩具</a>
 						</p>
 					</div>
 					<div class="item fore5">
 						<h3 class="cate">健身玩具</h3>
 						<p>
-						<a class="small" href="/search.html?q=炫舞毯">炫舞毯</a>
-						<a class="small" href="/search.html?q=爬行垫/毯">爬行垫/毯</a><br>
-						<a class="small" href="/search.html?q=户外玩具">户外玩具</a>
-						<a class="small" href="/search.html?q=戏水玩具">戏水玩具</a>
-						<a class="small" href="/search.html?q=儿童泳池">儿童泳池</a>
+						<a class="small" href="http://localhost:8085/search.html?q=炫舞毯">炫舞毯</a>
+						<a class="small" href="http://localhost:8085/search.html?q=爬行垫/毯">爬行垫/毯</a><br>
+						<a class="small" href="http://localhost:8085/search.html?q=户外玩具">户外玩具</a>
+						<a class="small" href="http://localhost:8085/search.html?q=戏水玩具">戏水玩具</a>
+						<a class="small" href="http://localhost:8085/search.html?q=儿童泳池">儿童泳池</a>
 						</p>
 					</div>
 					<div class="item fore6">
 						<h3 class="cate">毛绒玩具</h3>
 						<p>
-						<a class="small" href="/search.html?q=娃娃">娃娃</a>
-						<a class="small" href="/search.html?q=兔子">兔子</a><br>
-						<a class="small" href="/search.html?q=公仔">公仔</a>
-						<a class="small" href="/search.html?q=泰迪熊">泰迪熊</a>
-						<a class="small" href="/search.html?q=玩具熊">玩具熊</a>
-						<a class="small" href="/search.html?q=抱枕公仔">抱枕公仔</a>
+						<a class="small" href="http://localhost:8085/search.html?q=娃娃">娃娃</a>
+						<a class="small" href="http://localhost:8085/search.html?q=兔子">兔子</a><br>
+						<a class="small" href="http://localhost:8085/search.html?q=公仔">公仔</a>
+						<a class="small" href="http://localhost:8085/search.html?q=泰迪熊">泰迪熊</a>
+						<a class="small" href="http://localhost:8085/search.html?q=玩具熊">玩具熊</a>
+						<a class="small" href="http://localhost:8085/search.html?q=抱枕公仔">抱枕公仔</a>
 						</p>
 					</div>
 					<div class="item fore7">
 						<h3 class="cate">创意DIY</h3>
 						<p>
-						<a class="small" href="/search.html?q=手工彩泥">手工彩泥</a>
-						<a class="small" href="/search.html?q=绘画玩具">绘画玩具</a><br>
-						<a class="small" href="/search.html?q=情景玩具">情景玩具</a>
+						<a class="small" href="http://localhost:8085/search.html?q=手工彩泥">手工彩泥</a>
+						<a class="small" href="http://localhost:8085/search.html?q=绘画玩具">绘画玩具</a><br>
+						<a class="small" href="http://localhost:8085/search.html?q=情景玩具">情景玩具</a>
 						</p>
 					</div>
 					<div class="item fore8">
 						<h3 class="cate">乐器</h3>
 						<p>
-						<a class="small" href="/search.html?q=电子琴">电子琴</a>
-						<a class="small" href="/search.html?q=电钢琴">电钢琴</a><br>
-						<a class="small" href="/search.html?q=吉他/尤克里里">吉他/尤克里里</a>
-						<a class="small" href="/search.html?q=钢琴">钢琴</a>
-						<a class="small" href="/search.html?q=民乐">民乐</a>
+						<a class="small" href="http://localhost:8085/search.html?q=电子琴">电子琴</a>
+						<a class="small" href="http://localhost:8085/search.html?q=电钢琴">电钢琴</a><br>
+						<a class="small" href="http://localhost:8085/search.html?q=吉他/尤克里里">吉他/尤克里里</a>
+						<a class="small" href="http://localhost:8085/search.html?q=钢琴">钢琴</a>
+						<a class="small" href="http://localhost:8085/search.html?q=民乐">民乐</a>
 						</p>
 					</div>
 					<div class="extra">
