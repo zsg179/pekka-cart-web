@@ -20,6 +20,17 @@ var TTCart = {
 				TTCart.refreshTotalPrice();
 			});
 		});
+		$("#toggle-checkboxes_up").click(function() {
+			$("input[type='checkbox']:gt(0)").prop("checked", this.checked);
+			TTCart.refreshTotalPrice();
+		});
+		$("#toggle-checkboxes_down").click(function() {
+			$("input[type='checkbox']:gt(0)").prop("checked", this.checked);
+			TTCart.refreshTotalPrice();
+		});
+		$(".checkbox").click(function(){
+			TTCart.refreshTotalPrice();
+		});
 		$(".quantity-form .quantity-text").rnumber(1);//限制只能输入数字
 		$(".quantity-form .quantity-text").change(function(){
 			var _thisInput = $(this);
@@ -31,8 +42,10 @@ var TTCart = {
 	refreshTotalPrice : function(){ //重新计算总价
 		var total = 0;
 		$(".quantity-form .quantity-text").each(function(i,e){
-			var _this = $(e);
-			total += (eval(_this.attr("itemPrice")) * 10000 * eval(_this.val())) / 10000;
+			if($('.checkbox').is(':checked')){
+				var _this = $(e);
+				total += (eval(_this.attr("itemPrice")) * 10000 * eval(_this.val())) / 10000;
+			}
 		});
 		$(".totalSkuPrice").html(new Number(total/100).toFixed(2)).priceFormat({ //价格格式化插件
 			 prefix: '￥',

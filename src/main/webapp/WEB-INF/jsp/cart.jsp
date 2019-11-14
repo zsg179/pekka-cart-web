@@ -44,7 +44,7 @@
 </div>
 <div class="cart-inner">
     <div class="cart-thead clearfix">
-        <div class="column t-checkbox form"><input data-cart="toggle-cb" name="toggle-checkboxes" id="toggle-checkboxes_up" type="checkbox" checked="" value=""><label for="toggle-checkboxes_up">全选</label></div>
+        <div class="column t-checkbox form"><input data-cart="toggle-cb" checked="checked" name="toggle-checkboxes" id="toggle-checkboxes_up" type="checkbox" /><label for="toggle-checkboxes_up">全选</label></div>
         <div class="column t-goods">商品</div>
         <div class="column t-price">皮卡价</div>
         <div class="column t-promotion">优惠</div>
@@ -56,7 +56,9 @@
         <!-- ************************商品开始********************* -->
         <c:set var="totalPrice" value="0"></c:set>
         <c:forEach items="${cartList}" var="cart">
+        	<%-- <c:if test="$('.checkbox').checked=true"> --%>
         	<c:set var="totalPrice"  value="${ totalPrice + (cart.price * cart.num)}"/>
+        	<%-- </c:if> --%>
 	        <div id="product_11345721" data-bind="rowid:1" class="item item_selected ">
 		        <div class="item_form clearfix">
 		            <div class="cell p-checkbox"><input data-bind="cbid:1" class="checkbox" type="checkbox" name="checkItem" checked="" value="11345721-1"></div>
