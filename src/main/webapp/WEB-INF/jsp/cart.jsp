@@ -44,7 +44,7 @@
 </div>
 <div class="cart-inner">
     <div class="cart-thead clearfix">
-        <div class="column t-checkbox form"><input data-cart="toggle-cb" checked="checked" name="toggle-checkboxes" id="toggle-checkboxes_up" type="checkbox" /><label for="toggle-checkboxes_up">全选</label></div>
+        <div class="column t-checkbox form"><input data-cart="toggle-cb" checked name="toggle-checkboxes" id="toggle-checkboxes_up" type="checkbox" /><label for="toggle-checkboxes_up">全选</label></div>
         <div class="column t-goods">商品</div>
         <div class="column t-price">皮卡价</div>
         <div class="column t-promotion">优惠</div>
@@ -59,9 +59,9 @@
         	<%-- <c:if test="$('.checkbox').checked=true"> --%>
         	<c:set var="totalPrice"  value="${ totalPrice + (cart.price * cart.num)}"/>
         	<%-- </c:if> --%>
-	        <div id="product_11345721" data-bind="rowid:1" class="item item_selected ">
+	        <div id="product_11345721" data-bind="rowid:1" class="item item_selected">
 		        <div class="item_form clearfix">
-		            <div class="cell p-checkbox"><input data-bind="cbid:1" class="checkbox" type="checkbox" name="checkItem" checked="" value="11345721-1"></div>
+		            <div class="cell p-checkbox"><input data-bind="cbid:1" class="checkbox" type="checkbox" name="checkItem" checked  value="11345721-1"></div>
 		            <div class="cell p-goods">
 		                <div class="p-img">
 		                	<a href="/item/${cart.id }.html" target="_blank">
@@ -106,13 +106,13 @@
                           全选
                   </label>
               </span>
-              <span class="delete">
+              <!-- <span class="delete">
                   <b>
                   </b>
                   <a href="javascript:void(0);" clstag="clickcart|keycount|xincart|clearcartlink" id="remove-batch">
                           删除选中的商品
                   </a>
-              </span>
+              </span> -->
               <span class="shopping">
                   <b>
                   </b>
