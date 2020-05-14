@@ -94,7 +94,7 @@
           <div class="cart-toolbar clearfix">
             <div class="total fr">
                 <p><span class="totalSkuPrice">¥<fmt:formatNumber value="${totalPrice / 100}" maxFractionDigits="2" minFractionDigits="2" groupingUsed="true"/></span>总计：</p>
-                <p><span id="totalRePrice">- ¥0.00</span>优惠：</p>
+                <!-- <p><span id="totalRePrice">- ¥0.00</span>优惠：</p> -->
             </div>
             <div class="amout fr"><span id="selectedCount">1</span> 件商品</div>
         </div>
